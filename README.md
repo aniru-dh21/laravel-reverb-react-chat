@@ -76,3 +76,8 @@ php artisan optimize
 ```shell
 php artisan migrate:fresh
 ```
+
+- Install the NPM dependencies.
+```shell
+npm install
+```
