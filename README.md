@@ -11,3 +11,9 @@ Laravel Reverb has a few key features: it's written in PHP, i's fast, and it;s s
 Reverb basically allows you to run an application on a single server - but if the application starts to outgrow that server, you can add multiple additional servers. Then those servers can all communicate with each other to distribute the messages between themselves.
 
 ## Installation
+
+- **Prerequisites**
+  - PHP >= 8.2
+  - Composer
+  - MySQL >= 5.7
+  - Node.js >= 20
