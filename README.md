@@ -17,3 +17,8 @@ Reverb basically allows you to run an application on a single server - but if th
   - Composer
   - MySQL >= 5.7
   - Node.js >= 20
+
+- Clone the repository, or download the zip file and extract it.
+```shell
+git clone git@github.com/aniru-dh21/laravel-reverb-react-chat.git && cd laravel-reverb-react-chat/
+```
