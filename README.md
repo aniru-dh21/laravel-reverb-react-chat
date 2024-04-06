@@ -81,3 +81,8 @@ php artisan migrate:fresh
 ```shell
 npm install
 ```
+
+- Build the assets.
+```shell
+npm run build
+```
