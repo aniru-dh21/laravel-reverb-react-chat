@@ -66,3 +66,8 @@ VITE_REVERB_HOST="${REVERB_HOST}"
 VITE_REVERB_PORT="${REVERB_PORT}"
 VITE_REVERB_SCHEME="${REVERB_SCHEME}"
 ```
+
+- Optimize the application cache.
+```shell
+php artisan optimize
+```
