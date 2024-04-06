@@ -7,3 +7,5 @@ Reverb is a separate open-source package that's a first-party WebSocket server f
 Before this new package, Laravel had event broadcasting, but basically it didn't have a built-in way to set up a self-hosted WebSocket server. Fortunately, Reverb now gives us that option.
 
 Laravel Reverb has a few key features: it's written in PHP, i's fast, and it;s scalable. It was developed in particular to be horizontally scalable.
+
+Reverb basically allows you to run an application on a single server - but if the application starts to outgrow that server, you can add multiple additional servers. Then those servers can all communicate with each other to distribute the messages between themselves.
