@@ -27,3 +27,8 @@ git clone git@github.com/aniru-dh21/laravel-reverb-react-chat.git && cd laravel-
 ```shell
 cp .env.example .env
 ```
+
+- Install the dependencies
+```shell
+composer install
+```
