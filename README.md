@@ -91,3 +91,8 @@ npm run build
 ```shell
 npm run dev
 ```
+
+- Start WebSocket server.
+```shell
+php artisan reverb:start
+```
