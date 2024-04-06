@@ -9,3 +9,5 @@ Before this new package, Laravel had event broadcasting, but basically it didn't
 Laravel Reverb has a few key features: it's written in PHP, i's fast, and it;s scalable. It was developed in particular to be horizontally scalable.
 
 Reverb basically allows you to run an application on a single server - but if the application starts to outgrow that server, you can add multiple additional servers. Then those servers can all communicate with each other to distribute the messages between themselves.
+
+## Installation
