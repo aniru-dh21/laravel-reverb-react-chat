@@ -47,3 +47,22 @@ DB_DATABASE="<database_name>"
 DB_USERNAME="<username>"
 DB_PASSWORD="<password>"
 ```
+
+- Setup Reverb credential in the `.env` file:
+```shell
+BROADCAST_CONNECTION=reverb
+
+###
+
+REVERB_APP_ID=
+REVERB_APP_KEY=
+REVERB_APP_SECRET=
+REVERB_HOST="localhost"
+REVERB_PORT=8080
+REVERB_SCHEME=http
+
+VITE_REVERB_APP_KEY="${REVERB_APP_KEY}"
+VITE_REVERB_HOST="${REVERB_HOST}"
+VITE_REVERB_PORT="${REVERB_PORT}"
+VITE_REVERB_SCHEME="${REVERB_SCHEME}"
+```
