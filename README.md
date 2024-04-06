@@ -22,3 +22,8 @@ Reverb basically allows you to run an application on a single server - but if th
 ```shell
 git clone git@github.com/aniru-dh21/laravel-reverb-react-chat.git && cd laravel-reverb-react-chat/
 ```
+
+- Copy the `.env.example` file to `.env`:
+```shell
+cp .env.example .env
+```
