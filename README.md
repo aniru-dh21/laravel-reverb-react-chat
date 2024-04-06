@@ -71,3 +71,8 @@ VITE_REVERB_SCHEME="${REVERB_SCHEME}"
 ```shell
 php artisan optimize
 ```
+
+- Run the migrations.
+```shell
+php artisan migrate:fresh
+```
