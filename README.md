@@ -101,3 +101,8 @@ php artisan reverb:start
 ```shell
 php artisan queue:listen
 ```
+
+- Start the development server using below command or configure a virtual host.
+```shell
+php artisan serve
+```
