@@ -96,3 +96,8 @@ npm run dev
 ```shell
 php artisan reverb:start
 ```
+
+- Start listening to Queue Jobs.
+```shell
+php artisan queue:listen
+```
