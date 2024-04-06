@@ -86,3 +86,8 @@ npm install
 ```shell
 npm run build
 ```
+
+- **_[Optional]_** For development, run below command to watch the assets for changes.
+```shell
+npm run dev
+```
